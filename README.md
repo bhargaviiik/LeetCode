@@ -121,6 +121,7 @@ My solutions to LeetCode problems
 | [1768-merge-strings-alternately](https://github.com/bhargaviiik/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bhargaviiik/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviiik/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhargaviiik/leetcode/tree/main/Java/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bhargaviiik/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/bhargaviiik/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhargaviiik/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -295,6 +296,7 @@ My solutions to LeetCode problems
 | [1763-longest-nice-substring](https://github.com/bhargaviiik/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviiik/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhargaviiik/leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhargaviiik/leetcode/tree/main/Java/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
