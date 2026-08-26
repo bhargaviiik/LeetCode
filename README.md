@@ -114,6 +114,7 @@ My solutions to LeetCode problems
 | [0208-implement-trie-prefix-tree](https://github.com/bhargaviiik/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bhargaviiik/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0224-basic-calculator](https://github.com/bhargaviiik/leetcode/tree/main/0224-basic-calculator/) | Hard |
+| [0345-reverse-vowels-of-a-string](https://github.com/bhargaviiik/leetcode/tree/main/Java/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/bhargaviiik/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0796-rotate-string](https://github.com/bhargaviiik/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bhargaviiik/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -346,6 +347,7 @@ My solutions to LeetCode problems
 | [0061-rotate-list](https://github.com/bhargaviiik/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0283-move-zeroes](https://github.com/bhargaviiik/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/bhargaviiik/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0345-reverse-vowels-of-a-string](https://github.com/bhargaviiik/leetcode/tree/main/Java/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaviiik/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/bhargaviiik/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1861-rotating-the-box](https://github.com/bhargaviiik/leetcode/tree/main/1861-rotating-the-box/) | Medium |
