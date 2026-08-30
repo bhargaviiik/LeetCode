@@ -43,6 +43,7 @@ My solutions to LeetCode problems
 | [1861-rotating-the-box](https://github.com/bhargaviiik/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhargaviiik/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhargaviiik/leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/bhargaviiik/leetcode/tree/main/Java/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/bhargaviiik/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bhargaviiik/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bhargaviiik/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -287,6 +288,7 @@ My solutions to LeetCode problems
 | [0435-non-overlapping-intervals](https://github.com/bhargaviiik/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0502-ipo](https://github.com/bhargaviiik/leetcode/tree/main/0502-ipo/) | Hard |
 | [0605-can-place-flowers](https://github.com/bhargaviiik/leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/bhargaviiik/leetcode/tree/main/Java/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
